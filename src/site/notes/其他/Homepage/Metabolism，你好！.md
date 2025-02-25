@@ -1,5 +1,5 @@
 ---
-{"banner":"[[banner.jpg]]","banner-height":310,"banner-x":50,"banner-y":50,"banner-display":"cover","cssclasses":["disable-custom-css"],"dg-publish":true,"dg-home":"false","permalink":"//homepage/metabolism/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-02-15T17:52:26.110+08:00","updated":"2025-02-26T00:31:51.149+08:00"}
+{"banner":"[[banner.jpg]]","banner-height":310,"banner-x":50,"banner-y":50,"banner-display":"cover","cssclasses":["disable-custom-css"],"dg-publish":true,"dg-home":"false","permalink":"//homepage/metabolism/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
